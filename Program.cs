@@ -32,7 +32,7 @@ while (salida > 0)
 
 Console.WriteLine("Número invertido: " + numInvertido); */
 
-/* // Ejercicio 2
+// Ejercicio 2
 
 int continuar = 1, opcion;
 double suma, resta, multiplicacion, division;
@@ -186,4 +186,4 @@ static int Continuar()
     } while (!resul || (continuar != 0 && continuar != 1));
 
     return continuar;
-} */
+}
